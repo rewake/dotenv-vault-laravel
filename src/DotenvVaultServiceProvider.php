@@ -3,7 +3,6 @@
 namespace DotenvVault\Laravel;
 
 use Dotenv\Dotenv;
-use Dotenv\Exception\InvalidPathException;
 use DotenvVault\DotenvVault;
 use Illuminate\Config\Repository;
 use Illuminate\Contracts\Foundation\Application;
